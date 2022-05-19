@@ -1,3 +1,5 @@
+![img](https://siliconlabs-h.assetsadobe.com/is/image//content/dam/siliconlabs/images/events/mg24-tech-lab-poster.png?$Large2Column50pct$)
+
 # MG24 Accelerated Workshop Series
 Codes and tutorials related o Silicon Labs MG24 Tech Lab workshop sessions 
 

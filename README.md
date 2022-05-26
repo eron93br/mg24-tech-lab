@@ -13,9 +13,15 @@ Attendees will be provided our EFR32xG24 Dev Kit (xG24-DK2601B) for the hands-on
 
 Attendees will have access to live Q&A and 1:1 support to assist in completing the documented and recorded exercises. Registrants are encouraged to follow along with their own Silicon Labs' MG24 Development Kit, available to all registrants. 
 
-### Workshop Series Topic
+## Workshop Series Topic
 
-- Unboxing the MG24 and AI/ML Foundations	
-- Accelerate AI/ML at the Edge with xG24 and SensiML	
-- Accelerate AI/ML at the Edge with xG24 and Edge Impulse	
-- How to Use Peripherals and Sensors to Gather and Report Data
+### Unboxing the MG24 and AI/ML Foundations
+
+### Accelerate AI/ML at the Edge with xG24 and SensiML	
+
+- [Example Data Collection Firmware](https://sensiml.com/documentation/firmware/silicon-labs-xg24/silicon-labs-xg24.html)
+- [Microphone Cature code](https://github.com/sensiml/SensiML_xG24_Microphone_Capture)
+
+### Accelerate AI/ML at the Edge with xG24 and Edge Impulse	
+
+### How to Use Peripherals and Sensors to Gather and Report Data

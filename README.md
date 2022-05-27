@@ -17,6 +17,8 @@ Attendees will have access to live Q&A and 1:1 support to assist in completing t
 
 ### Unboxing the MG24 and AI/ML Foundations
 
+- [Unboxing the MG24 and AI/ML foundations lab](https://github.com/SiliconLabs/training_examples/tree/5944e7c5c6229ee21452de5046e8621d40875033/mg24_tech_lab)
+
 ### Accelerate AI/ML at the Edge with xG24 and SensiML	
 
 - [Example Data Collection Firmware](https://sensiml.com/documentation/firmware/silicon-labs-xg24/silicon-labs-xg24.html)
